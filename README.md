@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/mikeg1440/repo">
-    <img src="images/my-files/Logo.png" alt="Logo" width="80" height="80">
+    <img src="images/my-files/Logo.png" alt="Logo" width="200" height="200" style="border-radius: 10px; border: 2px solid rgb(87, 178, 255);">
   </a>
 
   <h3 align="center">My Files</h3>
@@ -41,25 +41,6 @@
   </p>
 </p>
 
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Repo](#about-the-project)
-* [Contact](#contact)
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
-
 <!-- CONTACT -->
 ## Contact
 
@@ -71,15 +52,15 @@ Repo Link: [https://github.com/mikeg1440/my-files](https://github.com/mikeg1440/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/mikeg1440/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/mikeg1440/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/mikeg1440/Best-README-Template.svg?style=flat-square
 [forks-url]: https://github.com/mikeg1440/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/mikeg1440/Best-README-Template.svg?style=flat-square
 [stars-url]: https://github.com/mikeg1440/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/mikeg1440/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/mikeg1440/repo/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/mikeg1440/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/mikeg1440/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/michaelgaudreau
