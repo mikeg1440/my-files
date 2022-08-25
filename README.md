@@ -27,19 +27,35 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/mikeg1440/repo">
+  <a href="https://github.com/mikeg1440/my-files">
     <img src="images/my-files/Logo.png" alt="Logo" width="200" height="200" style="border-radius: 10px; border: 2px solid rgb(87, 178, 255);">
   </a>
 
   <h3 align="center">My Files</h3>
 
+  <div align="center"> 
+    <a href="https://github.com/mikeg1440"><img src ="https://readme-typing-svg.herokuapp.com/?lines=Hey%20these%20are%20public%20project%20files;%20I'm%20a%20Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=00cefc&vCenter=true&size=22&pause=1000" alt="Personal message" /></a>
+  </div>
+
   <p align="center">
     Publicly available files that used for a variety of things like screenshots and other images/files that need to hosted somewhere but I don't want to add them to a projects repo.
-    <br />
-    <a href="https://github.com/mikeg1440/repo"><strong>Explore the docs »</strong></a>
-    <br />
   </p>
 </p>
+
+
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/mylogicbytes1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/mikeg1440"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 
 <!-- CONTACT -->
 ## Contact
